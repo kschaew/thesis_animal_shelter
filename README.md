@@ -15,7 +15,7 @@ The analysis compares machine learning models using shelter-record variables and
 ## Repository Contents
 
 - `notebooks/`: Jupyter notebooks for data cleaning, preprocessing, modeling, and evaluation
-- `outputs/`: Selected result tables and figures
+- `outputs/`: Selected result figures
 - `requirements.txt`: Python package requirements
 - `README.md`: Repository description
 
